@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Rubik+Mono+One&display=swap');
+*{
+    font-family: "Rubik Mono One", monospace; 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a{
+    color: inherit;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.container{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 0;
+}
+
+.btn{
+    background: #81d884;
+    border-radius: 50%;
+}

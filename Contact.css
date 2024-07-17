@@ -1,0 +1,11 @@
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto 44%;
+    padding-bottom: 50px;
+}
+
+.contacts img{
+    width: 75px;
+}

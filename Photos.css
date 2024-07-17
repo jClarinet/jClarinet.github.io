@@ -1,0 +1,12 @@
+.photos{
+    background: #81d884;
+    min-height:50vh;
+    width: 100%;
+    padding-top: 0;
+}
+.photo{
+    width: 25%;
+    border-radius: 50%;
+    border: 5px solid #ffcaf8;
+    margin: 16% 37.5%;
+}
